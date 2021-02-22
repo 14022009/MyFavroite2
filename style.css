@@ -1,0 +1,37 @@
+body{
+  height:552px;
+  text-align: center;
+  background: linear-gradient(#00eaff 0%, #15ff00 100%);
+  background-repeat:no-repeat;
+}
+img{
+height:200px;
+}
+#hobby{
+  font-size:30px;
+}
+#c{
+font-size:30px;
+  color:
+}
+.line{
+    background-color: #9c9c9c;
+    margin: 8px auto;
+    height: 5px;
+    width: 200px;   
+}
+p{
+  font-size:20px;
+  color:#1f1f1f;
+}
+.menu{
+    list-style: none;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 10;
+    cursor: pointer;
+}
+#welcome{
+    font-family: Courgette, cursive;
+}
